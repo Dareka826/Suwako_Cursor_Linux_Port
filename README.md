@@ -9,3 +9,11 @@ It's not perfect, of course
 - http://www.nicovideo.jp/watch/sm13378976
 
 Got frames from .ani files with this nice script: https://bbs.archlinux.org/viewtopic.php?id=151153
+
+# Installation
+
+Local
+- extract Suwako_Cursor.tar.gz into .icons folder in home directory
+
+Global
+- extract Suwako_Cursor.tar.gz into /usr/share/icons/
