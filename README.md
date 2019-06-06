@@ -7,3 +7,5 @@ It's not perfect, of course
 # Here are some links:
 - http://www.pixiv.net/member_illust.php?mode=medium&illust_id=16041075
 - http://www.nicovideo.jp/watch/sm13378976
+
+Got frames from .ani files with this nice script: https://bbs.archlinux.org/viewtopic.php?id=151153
